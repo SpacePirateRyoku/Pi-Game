@@ -1,0 +1,1 @@
+This project was made to play on a Pi. A small breadboard controller was also made for the inputs. I have made two versions of this game, one being playable via Python IDLE. This version however, was manipulated to work on the Pi.
